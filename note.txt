@@ -1,0 +1,13 @@
+- Event Loop :https://2014.jsconf.eu/speakers/philip-roberts-what-the-heck-is-the-event-loop-anyway.html
+
+Javascript
+https://javascript.info/function-expressions-arrows
+https://javascript.info/object-methods
+https://javascript.info/destructuring-assignment
+https://javascript.info/destructuring-assignment
+https://javascript.info/closure
+https://javascript.info/bind
+https://javascript.info/arrow-functions
+https://javascript.info/currying-partials
+https://javascript.info/async
+https://javascript.info/modules
